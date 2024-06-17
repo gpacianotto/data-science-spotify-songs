@@ -11,6 +11,10 @@ then:
 ```bash
 $ pip install pandas
 ```
+also, install `python-dotenv` for inserting your spotify api credentials safely using a `.env` file in this project root path:
+```bash
+$ pip install python-dotenv
+```
 
 After that, make sure you have all the pip's packeges used in this project installed on your computer.
 

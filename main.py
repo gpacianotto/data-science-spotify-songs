@@ -43,6 +43,11 @@ app.layout = html.Div([
             ],
             style=itemStyle
         ),
+        html.Div([
+                dcc.Link(f"Modelo de Classificação", href="/model", style=linkStyle)
+            ],
+            style=itemStyle
+        ),
         
     ], style=topBarStyle),
     page_container
