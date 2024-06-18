@@ -2,6 +2,9 @@
 
 This is an analysis of 114000 spotify songs made by Guilherme de Aguiar Pacianotto, São Paulo's University student.
 
+## Before running
+Before you start running your application, create a `.env` file in the root of your project and copy the content of `.env.example` inside of it.
+
 ## How to Run it
 
 ```bash
